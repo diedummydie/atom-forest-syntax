@@ -1,0 +1,20 @@
+{
+  "name": "forest-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "The woods are lovely, dark and deep",
+  "keywords": [
+    "forest",
+    "syntax",
+    "theme",
+    "dark",
+    "green",
+    "sublime",
+    "monokai"
+  ],
+  "repository": "https://github.com/atom/forest-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
