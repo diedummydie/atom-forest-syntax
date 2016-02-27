@@ -9,4 +9,6 @@ This is the syntax of the deep woods. A dark, earthy theme for Atom editor that'
 
 ![Forest Python](http://i.imgur.com/WYmW47E.png)
 
+![Forest 21](http://i.imgur.com/RRL80oy.jpg)
+
 This theme found inspiration in the Monokai Extended theme for Sublime Text, the Birds of Paradise theme for TextMate, and the Robin Hood theme for Atom.
