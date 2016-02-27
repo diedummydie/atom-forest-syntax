@@ -1,11 +1,12 @@
-# forest-syntax theme
-Syntax of the deep wood
+# Forest
 
+> The woods are lovely, dark and deep,
+> But I have promises to keep,
+> And miles to go before I sleep,
+> And miles to go before I sleep.
 
+The syntax of the deep woods. A dark, earthy theme for Atom editor that's easy on the eyes, providing a quiet calm for long coding sessions.
 
-Inspired by
-- Monokai Extended for Sublime Text
-- Birds of Paradise for TextMate
-- Robin Hood for Atom
+![Forest Python](http://i.imgur.com/WYmW47E.png)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Inspired by the Monokai Extended theme for Sublime Text, the Birds of Paradise theme for TextMate, and the Robin Hood theme for Atom.
