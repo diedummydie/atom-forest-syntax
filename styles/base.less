@@ -286,9 +286,14 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
     font-style: italic;
   }
 
+  &.heading {
+    //font-weight: bold;
+    color: @lightgreen;
+  }
+
   &.heading .punctuation.definition.heading {
     font-weight: bold;
-    color: @green;
+    color: @orange;
   }
 
   &.inserted {
@@ -308,12 +313,7 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   }
 }
 
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
-  &.heading {
-    color: @green;
-  }
-}
+
 
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
