@@ -293,7 +293,7 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 
   &.heading .punctuation.definition.heading {
     font-weight: bold;
-    color: @orange;
+    color: @syntax-gutter-text-color;
   }
 
   &.inserted {
@@ -313,6 +313,16 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   }
 }
 
+// language markdown https://github.com/burodepeper/language-markdown/blob/dev-scopes/resources/markup-and-down.less
+.text.md {
+  .md {
+    &.heading {
+        .punctuation {
+		  color: @syntax-gutter-text-color;
+	  }
+    }
+  }
+}
 
 
 atom-text-editor[mini] .scroll-view,
