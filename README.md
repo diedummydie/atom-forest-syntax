@@ -6,7 +6,7 @@ The syntax of the deep woods, Forest is a dark, earthy theme for Atom that's eas
 ![Ruby](https://raw.githubusercontent.com/diedummydie/atom-forest-syntax/master/img/rb.png)
 ![JavaScript](https://raw.githubusercontent.com/diedummydie/atom-forest-syntax/master/img/js.png)
 ![SQL](https://raw.githubusercontent.com/diedummydie/atom-forest-syntax/master/img/sql.png)
-![Forest 21](http://i.imgur.com/RRL80oy.jpg)
+![Forest 21](https://raw.githubusercontent.com/diedummydie/atom-forest-syntax/master/img/Forest21ss.png)
 
 Full 'language-markdown' support in progress.
 
