@@ -293,7 +293,7 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 
   &.heading .punctuation.definition.heading {
     font-weight: bold;
-    color: @syntax-gutter-text-color;
+    color: lighten(@monokai, 33%);
   }
 
   &.inserted {
@@ -311,6 +311,11 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   &.raw.inline {
     color: @green;
   }
+
+  .punctuation {
+    opacity: 0.5;
+  }
+
 }
 
 // language markdown https://github.com/burodepeper/language-markdown/blob/dev-scopes/resources/markup-and-down.less
@@ -318,7 +323,7 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   .md {
     &.heading {
         .punctuation {
-		  color: @syntax-gutter-text-color;
+		  color: lighten(@monokai, 33%);
 	  }
     }
   }
